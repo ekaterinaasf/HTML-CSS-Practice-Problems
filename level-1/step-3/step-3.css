@@ -1,17 +1,32 @@
 /* Step-3 You can assign padding to all sides of a container by using the padding shorthand property. */
 
 .content-mid {
- 
+ /*Add padding of 80 pixels on the top, left, right, and bottom*/
+  padding: 80px;
 }
 
 .content-mid-header {
   background: #444;
+ /*Assign a width and height.*/
+  width: 100px;
+  height: 20px;
 }
-
+ 
 .content-container {
-
+ /*Assign a width and height.*/
+  width: 100px;
+  height: 20px;
 }
 
 .content {
   background: #D8D8D8;
+ /*
+    Add padding of 20 pixels on the top, left, right, and bottom.
+    Assign a width, height, and text-align.
+    Add some random text inside the div.
+*/
+   padding: 20px;
+   width: 600px;
+   height: 50px;
+   text-align: center;
 }
