@@ -11,6 +11,8 @@
     /* This height is a placeholder. You will need to make some adjustments to get this container to look like the design. */
     height: 100px;
     background: #565555;
+    /*Position this element to the left side of the screen*/
+    float: left;
 }
 
 
@@ -21,6 +23,8 @@
     /* This height is a placeholder. You will need to make some adjustments to get this container to look like the design. */
     height: 100px;
     background: #B0B0B0;
+    float: right;
+    
 }
 
 /* Use float to get this container to the bottom of the screen  */
