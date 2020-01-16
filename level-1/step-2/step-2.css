@@ -18,8 +18,8 @@
 .profile-image-container {
     background: #96F0F2;
  /*Assign a width, height, and margin-bottom*/
-    width:800px;
-    height:600px;
+    width:auto;
+    height:100%;
     margin-bottom:10px;
 }
 
@@ -28,8 +28,8 @@
 .profile-links-container {
     background: #12F3F7;
  /*Assign a width and height.*/
-    width:auto;
-    height:auto;
+    width:100%;
+    height:20%;
 }
 
 /* Step-2 You can either use float left to get this element to in the desired location. */
