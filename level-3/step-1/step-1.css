@@ -67,6 +67,13 @@
 
 }
 
+.item{
+    background-image: url(https://github.com/ekaterinaasf/HTML-CSS-Practice-Problems/blob/master/level-3/step-1/step-1.png);
+    width: 100vw;
+    background-size: cover ;
+    background-repeat: no-repeat;
+}
+
 
 .shop-icon {
     width: 350px;
