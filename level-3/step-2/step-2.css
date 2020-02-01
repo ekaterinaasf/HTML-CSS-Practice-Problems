@@ -5,6 +5,16 @@
 
 }
 
+.tops{
+    width:50%;
+    float: left;
+}
+
+.bottoms{
+    width:50%;
+    float: right;
+}
+
 .item {
     display: inline-block;
     width: 20%;
@@ -26,12 +36,26 @@
 
 }
 
+.accessories{
+    width:100%;
+}
+
 
 .large-item {
     width: 40%;
     margin:0 auto 20px;
     cursor: pointer;
 
+}
+
+.kicks{
+    width:50%;
+    float: left;
+}
+
+.hats{
+    width:50%;
+    float: right;
 }
 
 
